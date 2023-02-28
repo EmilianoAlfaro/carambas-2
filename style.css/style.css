@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+
+*
+{
+    margin:  0;
+    padding: 0;
+}
+
+.encabezado
+
+{
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 2%;
+    text-decoration: none;
+    display: flex;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+    text-align: center;
+    background-color: green;
+    color: aliceblue;
+    
+
+}
+
+.footer
+{
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 2%;
+    text-decoration: none;
+    display: flex;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+    text-align: center;
+    background-color: green;
+    color: aliceblue;
+}
